@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ProjectLuna</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_text">Project Luna</string>
+    <string name="new_story_text">New Story</string>
+    <string name="continue_story_text">Continue Story</string>
+    <string name="end_story_text">End Story</string>
+    <string name="title_activity_scene_view">SceneView</string>
+    <string name="about_title">About</string>
+    <string name="about_message">Project Luna created by Tyler Carney</string>
+    <string name="reset_title">Reset Story</string>
+    <string name="scene1_01_text">Welcome to Outpost Luna. Current records show you have a month left
+                                on tour til your return to Earth. \nAutonomous Mining Rover Alpha 01 (AMR Alpha 1)
+                                reported a problem. Assist the rover.</string>
+    <string name="option1_scene1_01_text">Walk to Autonomous Mining Rover Alpha 01</string>
+    <string name="option2_scene1_01_text">Drive manned rover to AMR Alpha 01</string>
+    <string name="scene2_01_text">You go to get your spacesuit and notice a slight tear on the left arm fabric.
+                                    You won\'t survive on out on the surface with the tear. There is some
+                                    ducktape nearby that could be used to patch the tear temporarily. Else
+                                    you will have to wait til a new arm piece can be fabricated. Which will
+                                    take a day. The company really needs the AMR Alpha 01
+                                    operational as soon as possible though</string>
+    <string name="option1_scene2_01">Temporarily patch the tear with ducktape</string>
+    <string name="option2_scene2_01">Wait for a new arm piece to be fabricated</string>
+    <string name="scene3_01_text">The ducktape patch held up. You were able to reach the AMR Alpha 1.
+                                        It was just stuck on a medium sized moon rock. Well now you have a real
+                                        moon rock to take home with you to Earth.</string>
+    <string name="scene3_02_text">By deciding to wait you chose safety before risk. The company understand
+                                    but when they are on a deadline they feel to much time has been wasted.</string>
+    <string name="scene2_02_text">A need for speed, huh. Think of the view you could have gotten by walking
+                                    though. Your almost to AMR Alpha 1 and notice that there are small mounds
+                                    in the path to the rover. With the low gravity on the moon going over the mounds at
+                                    a high speed will mostly likely propel the rover upwards and off the surface for
+                                    a few meters.</string>
+    <string name="option1_scene2_02">Go for style points! Full speed over the mounds</string>
+    <string name="option2_scene2_02">Take it slow over the mounds</string>
+    <string name="scene3_03_text">Well your certainly would get the points if you were in an offroad race.
+                                    Unfortunately for you landed on top of AMR Alpha 1. Destorying it beyond repair.
+                                    The bosses won\'t be too happy with this news. Well it is time for you
+                                    to think about changing your profession. Maybe give the new lunar offroad
+                                    racing a try. I hear they are looking for experienced drivers.</string>
+    <string name="scene3_04_text">They always said the turtle will always win the race. It\'s true again. Though
+                                    probably less fun. You made it to AMR Alpha 1. Finding that is was just
+                                    hindered by a medium sized moon rock and you can keep the moon rock
+                                    as a reward.</string>
+</resources>
